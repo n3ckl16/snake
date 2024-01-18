@@ -15,3 +15,5 @@ Then compile snake.cpp file with a compiler of your choice
 gcc snake.cpp -o snake
 clang snake.cpp -o snake
 ```
+
+> And you're ready to go!
